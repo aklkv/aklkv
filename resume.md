@@ -2,10 +2,14 @@
 # Alexey Kulakov
 
 **Phone:** +1 604 562 58 51
+
 **Email:** [uni_que@me.com](mailto:uni_que@me.com)
+
 **Github:** [https://github.com/aklkv](https://github.com/aklkv)
+
 **Twitter:** [https://twitter.com/akulakov](https://twitter.com/akulakov)
-**Address:** 10581 140 St. Surrey, BC, V3T 0H7, Canada
+
+**Address:** 9688 162A St. Surrey, BC, V4N 6V3, Canada
 
 ## Professional Summary
 
@@ -14,16 +18,34 @@ Senior Software Developer with 14+ years experience architecting and developing 
 ## Technical Summary
 
 **Libraries & Frameworks:** _Ember, React, React Native,  Angular, Cordova, D3, highcharts, Express, Laravel, CodeIgniter, Rails_
+
 **Languages:** _JavaScript, Ruby, PHP, ObjectiveC, Swift, C++._
+
 **Databases:** _MySQL, PostgreSQL, MongoDB._
 **Operating Systems:** _macOS, linux, Ubuntu, CentOS, Windows, Windows Server._
+
 **Cloud Platforms & Infrastructure:** _AWS, GCP,  Docker, Chef, Puppet._
+
 **Other Tools:** _Git, Gulp, Webpack, broccoli, Apache, nginx, Adobe CC, Sketch, Figma._
+
 **Project Management Tools:** _Jira, Confluence, Trello_
+
 **Methodologies:** _Agile, Scrum, Kanban, Waterfall._
 
 ## Professional Experience
-**Tile Inc** (June 2021 - Current)_Senior Software Engineer_
+
+**HashiCorp Inc** (May 2022 - Current) _Senior Software Engineer_
+
+HashiCorp is a cloud infrastructure automation company that enables organizations to adopt consistent workflows to provision, secure, connect, and run any infrastructure for any application.
+
+* Worked on the HCP Packer product which is a cloud service that automates the creation of any type of machine image. This product is used by many Fortune 500 companies.
+* Migrated legacy codebase to TypeScript which improved code quality and developer experience.
+* Worked on the new UI for the product which improved user experience and adoption.
+* Worked on the new API for the product which improved user experience and adoption.
+* Worked on the new CI/CD pipeline for the product which improved developer experience and speed of development.
+* Mentored junior and mid-level developers.
+
+**Tile Inc** (June 2021 - March 2022) _Senior Software Engineer_
 
 Tile uses technology to solve real everyday problems that keep each day running smoothly.
 
@@ -33,7 +55,7 @@ Tile uses technology to solve real everyday problems that keep each day running 
 
 - - - -
 
-**Ecoation** (November 2020 - Current)_Senior Software Engineer_
+**Ecoation** (November 2020 - June 2021) _Senior Software Engineer_
 
 Ecoation’s expertise in plants as well as sensing, analytics and control technology to produce a variety of nutrient-dense foods.
 
@@ -44,7 +66,7 @@ Ecoation’s expertise in plants as well as sensing, analytics and control techn
 
 - - - -
 
-**Foodee Inc** (October 2019 - November 2020)_Senior Software Engineer_
+**Foodee Inc** (October 2019 - November 2020) _Senior Software Engineer_
 
 Foodee is a leading corporate catering company. Foodee is the top choice for many Fortune 500 companies, including Amazon, Apple and Facebook.
 
@@ -56,8 +78,7 @@ Foodee is a leading corporate catering company. Foodee is the top choice for man
 
 - - - -
 
-**Qiiu Systems Inc**  Remote Contract _(May  2019 –  August 2019)_
- _Senior Software Engineer_ 
+**Qiiu Systems Inc**  Remote Contract (May  2019 –  October 2019) _Senior Software Engineer_
 
 String masters is an interactive learning platform for music education that provides one on one lessons with industry-leading musicians and extensive instructional content library and digitized sheet music materials.
 
@@ -68,8 +89,7 @@ String masters is an interactive learning platform for music education that prov
 
 - - - -
 
-**American Medical Association**  Remote _(October  2018 – May 2019)_
- _Senior Software Engineer (Consultant)_ 
+**American Medical Association**  Remote (September  2018 – May 2019) _Senior Software Engineer (Consultant)_
 
 The American Medical Association is a professional association and lobbying group of physicians and medical students.
 
@@ -80,8 +100,7 @@ The American Medical Association is a professional association and lobbying grou
 
 - - - -
 
-**Selected, Inc.**  Remote _(April  2018 – September 2018)_
- _Senior Software Engineer (Consultant)_ 
+**Selected, Inc.**  Remote (April  2018 – September 2018) _Senior Software Engineer (Consultant)_
 
 Selected is a matching platform for teachers and schools. It helps teachers to find the next perfect job and schools to feel more confident when hiring.
 
@@ -93,8 +112,7 @@ Selected is a matching platform for teachers and schools. It helps teachers to f
 
 - - - -
 
-**Semios Technologies Inc.**  Vancouver, BC _(May 2015 – March 2018)_
- _Senior Software Engineer (Lead)_ 
+**Semios Technologies Inc.**  Vancouver, BC (May 2015 – April 2018) _Senior Software Engineer (Lead)_
 
 Semios is a scalable, data analytics platform for growers of tree fruit and tree nut crops that helps predict, identify, and prevent pest and disease pressure. Leveraging a network of 150,000 sensors, providing updates every 10 minutes, we apply big data analytics and machine learning to reduce and mitigate crop risks for growers.
 
@@ -106,39 +124,29 @@ Semios is a scalable, data analytics platform for growers of tree fruit and tree
 
 - - - -
 
-**Pace Creative Group**  Vancouver, BC _(January 2015 – May 2015) Contract_
+**Pace Creative Group**  Vancouver, BC (February 2015 – April 2015) _Contract_
 _Web Developer_
 Pace Creative is a full-service marketing and communication agency, specializing in content marketing.
 
-### _Various WordPress Websites_
 **Duties:**
+
 * Maintained current clients websites and developed several new projects.
 * Worked on optimizing studio workflow
+
 **Technologies used:**  _WordPress, vanilla JavaScript, jQuery._
 
 - - - -
 
-**GreenTime LLC**  Moscow, Russian Federation _(Jun 2007 – 2014) Remote_ 
-_Web Developer  (Lead)_
+**GreenTime LLC**  Moscow, Russian Federation (Jun 2007 – May 2014) _Web Developer  (Lead)_
 
 GreenTime is an official and exclusive representative of the largest American automotive products manufacturers on the territory of Russia and CIS countries.
 
-- - - -
-
-**Phinik Studio**  Vancouver, BC _(January 2006 – January 2015)_
-_Web Developer  (Lead)_ 
-
-Pace Creative is a full-service marketing and communication agency, specializing in content marketing.
-
-* Maintained current clients’ websites and developed several new projects.
-* Worked on optimizing studio workflow.
-
 ## Education
-* **Langara College**,  Computer Science _(Jun 2013 – 2016)_
-* **Simon Fraser University**, Software Systems Bachelor _(Sept 2010 - 2013)_
-* **Art institute of Vancouver**, Web Design & Interactive Media Diploma _(Jun 2009 – 2010)_
+
+* **Langara College**,  Computer Science _(Jun 2014 – November 2017)_
+* **Simon Fraser University**, Software Systems Bachelor _(Sept 2010 - December 2013)_
+* **Art institute of Vancouver**, Web Design & Interactive Media Diploma _(September 2008 – June 2010)_
 
 ## References
-Available upon request.
 
-#resume
+Available upon request.
